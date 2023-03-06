@@ -11,7 +11,7 @@ import java.util.List;
 @AllArgsConstructor
 @Data
 @ToString
-public class courseProgress {
+public class CourseProgress {
     private int id;
     private Student student;
     private Course course;
